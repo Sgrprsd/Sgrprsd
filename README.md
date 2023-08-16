@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sagar.prasad2299@gmail.com**
 
-- 📄 Know about my experiences [working on it](working on it)
+- 📄 Know about my experiences [https://tinyurl.com/3avmku74](https://tinyurl.com/3avmku74)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
