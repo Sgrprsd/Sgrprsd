@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS, Node JS, TypeScript**
 
-- 👨‍💻 All of my projects are available at [working on it](working on it)
+- 👨‍💻 All of my projects are available at [https://tinyurl.com/2p8n785s](https://tinyurl.com/2p8n785s)
 
 - 💬 Ask me about **React JS, HTML, CSS, javaScript**
 
