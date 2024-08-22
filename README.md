@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Prasad</h1>
-<h3 align="center">I am a solution driven MERN stack developer adept at contributing to highly collaborative work environment and finding solutions. I have contributed to multiple projects that enhance the user experience, optimize the performance, and improve the security of the websites As a full stack developer at Cloud Analogy. </h3>
+<h3 align="center">I am a solution driven MERN stack developer adept at contributing to highly collaborative work environment and finding solutions. I have contributed to multiple projects that enhance the user experience, optimize the performance, and improve the security of the websites As a full stack developer. </h3>
   
  <h3 align="center"> I graduated from Lovely Professional University with a Bachelor of Technology in Computer Science in 2021. I am an autodidact, an adept, and an extremely systematic and organized personality. I have a passion for learning new technologies and mastering my skills.</h3>
 
